@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T13:13:51.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="R0pFlOrJ3tsxnM1FmpxH" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T13:17:54.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XasdVL-VnlPe_6iumGwA" version="24.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="608" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,14 +7,14 @@
         <mxCell id="p3S0wlXlV8zNG6tmP89U-0" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="220" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p3S0wlXlV8zNG6tmP89U-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="p3S0wlXlV8zNG6tmP89U-1" value="a&amp;gt;=b" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p3S0wlXlV8zNG6tmP89U-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="p3S0wlXlV8zNG6tmP89U-2" value="a, b, c" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p3S0wlXlV8zNG6tmP89U-3" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="640" width="120" height="80" as="geometry" />
+          <mxGeometry x="220" y="780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p3S0wlXlV8zNG6tmP89U-4" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="450" width="120" height="80" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="p3S0wlXlV8zNG6tmP89U-6" value="daxil edilen 3 eded arasindan en boyuk olani cixaran alqoritmi qurun" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="170" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p3S0wlXlV8zNG6tmP89U-7" value="b&amp;gt;=c" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="560" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
