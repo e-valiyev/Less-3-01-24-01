@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" modified="2024-03-11T13:32:54.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="NVwnzEbAg5bBLm8MJinZ" version="24.0.1" type="github">
+  <diagram name="Page-1" id="CkUtt0xiwIvlM8jYJ5bA">
+    <mxGraphModel dx="608" dy="311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K-n1BwbgG02GMlI1aYLv-1" value="daxil edilmiş ədəd müsbətdirsə kubun tapan mənfidirsə müsbətə çevirib kvandratın tapan alqoritm qurun" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="350" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
