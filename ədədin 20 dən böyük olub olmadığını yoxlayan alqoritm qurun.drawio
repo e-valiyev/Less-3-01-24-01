@@ -1,50 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T13:21:11.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qHtO8gORCw_P2JbDks28" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T13:27:47.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tj3IHbXxD2KuwUHJLyU1" version="24.0.1" type="github">
   <diagram name="Page-1" id="lPK0FoTXOUgyILTY1ARR">
-    <mxGraphModel dx="608" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="608" dy="311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DbDl11TGkd3BscBlavWK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DbDl11TGkd3BscBlavWK-1" target="DbDl11TGkd3BscBlavWK-3">
+        <mxCell id="DbDl11TGkd3BscBlavWK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DbDl11TGkd3BscBlavWK-1" target="DbDl11TGkd3BscBlavWK-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DbDl11TGkd3BscBlavWK-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DbDl11TGkd3BscBlavWK-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DbDl11TGkd3BscBlavWK-2" value="ədədin 20 dən böyük olub olmadığını yoxlayan alqoritm qurun" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DbDl11TGkd3BscBlavWK-2" value="ədədin 20 dən böyük olub olmadığını yoxlayan alqoritm qurun" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="60" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DbDl11TGkd3BscBlavWK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DbDl11TGkd3BscBlavWK-3" target="DbDl11TGkd3BscBlavWK-4">
+        <mxCell id="DbDl11TGkd3BscBlavWK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DbDl11TGkd3BscBlavWK-3" target="DbDl11TGkd3BscBlavWK-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DbDl11TGkd3BscBlavWK-3" value="a" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="DbDl11TGkd3BscBlavWK-3" value="a" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DbDl11TGkd3BscBlavWK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DbDl11TGkd3BscBlavWK-4" target="DbDl11TGkd3BscBlavWK-5">
+        <mxCell id="APeUv673Dj2qAFOoGPkY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DbDl11TGkd3BscBlavWK-4" target="APeUv673Dj2qAFOoGPkY-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DbDl11TGkd3BscBlavWK-9" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DbDl11TGkd3BscBlavWK-8">
-          <mxGeometry x="-0.2547" relative="1" as="geometry">
+        <mxCell id="APeUv673Dj2qAFOoGPkY-7" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="APeUv673Dj2qAFOoGPkY-3">
+          <mxGeometry x="-0.4433" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DbDl11TGkd3BscBlavWK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DbDl11TGkd3BscBlavWK-4" target="DbDl11TGkd3BscBlavWK-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="230" y="380" />
-              <mxPoint x="425" y="380" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="APeUv673Dj2qAFOoGPkY-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DbDl11TGkd3BscBlavWK-4" target="APeUv673Dj2qAFOoGPkY-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DbDl11TGkd3BscBlavWK-11" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DbDl11TGkd3BscBlavWK-10">
-          <mxGeometry x="-0.0434" relative="1" as="geometry">
+        <mxCell id="APeUv673Dj2qAFOoGPkY-8" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="APeUv673Dj2qAFOoGPkY-4">
+          <mxGeometry x="-0.135" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DbDl11TGkd3BscBlavWK-4" value="a&amp;gt;20" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DbDl11TGkd3BscBlavWK-4" value="a&amp;gt;20" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DbDl11TGkd3BscBlavWK-5" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="280" width="120" height="80" as="geometry" />
+        <mxCell id="DbDl11TGkd3BscBlavWK-5" value="end" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="APeUv673Dj2qAFOoGPkY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="APeUv673Dj2qAFOoGPkY-1" target="DbDl11TGkd3BscBlavWK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="APeUv673Dj2qAFOoGPkY-1" value="a ədədi 20dən böyükdür" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="APeUv673Dj2qAFOoGPkY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="APeUv673Dj2qAFOoGPkY-2" target="DbDl11TGkd3BscBlavWK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="APeUv673Dj2qAFOoGPkY-2" value="a ədədi 20dən kiçikdir" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
